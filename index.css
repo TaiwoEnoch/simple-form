@@ -43,7 +43,7 @@ button {
   border: 2px solid burlywood;
 }
 button:hover {
-  color: #000;
+  color: #fff;
   background-color: rgba(233, 191, 4, 0.219);
   font-size: 20px;
 }
