@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image:url(/images-folder/picture_for_bgimage.jpg);
+  background-image:url(/images-folder/image-for-background.jpg);
   background-position: center;
 }
 
@@ -43,7 +43,7 @@ button {
   border: 2px solid burlywood;
 }
 button:hover {
-  color: rgb(22, 21, 21);
+  color: #000;
   background-color: rgba(233, 191, 4, 0.219);
   font-size: 20px;
 }
